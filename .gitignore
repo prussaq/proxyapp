@@ -1,0 +1,4 @@
+.env
+venv/
+proxy_app.log
+proxy_app.pid
